@@ -106,6 +106,7 @@ let embedArray = [
   new Embed('https://play.spotify.com/track/0ivpUENLpheuPoa6VuY1ax'),
   new Embed('http://mtv.tumblr.com/post/139813756155/kanye-west-taking-a-kanye-rest-so-he-can-do-his'),
   new Embed('https://videopress.com/v/kUJmAcSf'),
+  new Embed('https://coub.com/view/10rezj'),
   new Embed('http://www.example.com/foo')
 ];
 

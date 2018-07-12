@@ -77,6 +77,7 @@ let embedURLs = [
   'https://play.spotify.com/track/0ivpUENLpheuPoa6VuY1ax',
   'http://mtv.tumblr.com/post/139813756155/kanye-west-taking-a-kanye-rest-so-he-can-do-his',
   'https://videopress.com/v/kUJmAcSf',
+  'https://coub.com/view/10rezj',
   'http://www.example.com/foo'
 /*
 'https://www.youtube.com/watch?v=RNC6Jp8EGs0#s=1'
